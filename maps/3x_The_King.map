@@ -1,15 +1,12 @@
-border_size=1
-usage=map
-
-Ur          , Ur          , Ur          , Uu          , Uu          , Uu          , Cud         , Cud         , Xos         , Xos         , Ur          , Xos         , Xos         , Cud         , Cud         , Uu          , Uu          , Uu          , Uu          , Ur          
-Uu          , Ur          , Ur          , Uu          , Cud         , Cud         , Xos         , Xos         , Ur          , Ur          , Cud         , Ur          , Ur          , Xos         , Xos         , Cud         , Cud         , Uu          , Ur          , Ur          
-Uu          , Uu          , Uu          , Ur          , 1 Ur        , Xos         , Ur          , Ur          , Ur          , Cud         , Cud         , Cud         , Ur          , Ur          , Ur          , Xos         , Ur          , Ur          , Ur          , Uu          
-Uu          , Uu          , Uu          , Cud         , Xos         , Ur          , Cud         , Ur          , Cud         , Ur          , Ur          , Ur          , Cud         , Ur          , Cud         , Ur          , Xos         , Cud         , Uu          , Uu          
-Uu          , Uu          , Uu          , Cud         , Xos         , Ur          , Ur          , Cud         , Ur          , Ur          , Cud         , Ur          , Ur          , Cud         , Ur          , Ur          , Xos         , Cud         , Uu          , Uu          
-Uu          , Uu          , Uu          , Cud         , Xos         , Ur          , Ur          , Cud         , Ur          , Cud         , 2 Kud       , Cud         , Ur          , Cud         , Ur          , Ur          , Xos         , Cud         , Uu          , Uu          
-Uu          , Uu          , Uu          , Cud         , Xos         , Ur          , Cud         , Ur          , Ur          , Cud         , Cud         , Cud         , Ur          , Ur          , Cud         , Ur          , Xos         , Cud         , Uu          , Uu          
-Uu          , Uu          , Uu          , Cud         , Xos         , Ur          , Cud         , Cud         , Ur          , Ur          , Ur          , Ur          , Ur          , Cud         , Cud         , Ur          , Xos         , Cud         , Uu          , Uu          
-Uu          , Uu          , Uu          , Cud         , Ur          , Ur          , Ur          , Cud         , Ur          , Cud         , Cud         , Cud         , Ur          , Cud         , Ur          , Ur          , Ur          , Cud         , Uu          , Uu          
-Uu          , Uu          , Ur          , Ur          , Cud         , Xos         , Xos         , Ur          , Ur          , Ur          , Cud         , Ur          , Ur          , Ur          , Xos         , Xos         , Cud         , Ur          , Uu          , Uu          
-Uu          , Uu          , Ur          , Uu          , Uu          , Cud         , Cud         , Xos         , Xos         , Ur          , Ur          , Ur          , Xos         , Xos         , Cud         , Cud         , Uu          , Ur          , Uu          , Uu          
-Ur          , Ur          , Uu          , Uu          , Uu          , Uu          , Uu          , Cud         , Cud         , Xos         , Ur          , Xos         , Cud         , Cud         , Uu          , Uu          , Uu          , Ur          , Ur          , Ur          
+Ur, Ur, Ur, Uu, Uu, Uu, Cud, Cud, Xos, Xos, Irs, Xos, Xos, Cud, Cud, Uu, Uu, Uu, Uu, Ur
+Uu, Ur, Ur, Uu, Cud, Cud, Xos, Xos, Irs, Irs, Cud, Irs, Irs, Xos, Xos, Cud, Cud, Uu, Ur, Ur
+Uu, Uu, Uu, Ur, 1 Irs, Xos, Irs, Irs, Irs, Cud, Cud, Cud, Irs, Irs, Irs, Xos, Irs, Ur, Ur, Uu
+Uu, Uu, Uu, Cud, Xos, Irs, Cud, Irs, Cud, Irs, Irs, Irs, Cud, Irs, Cud, Irs, Xos, Cud, Uu, Uu
+Uu, Uu, Uu, Cud, Xos, Irs, Irs, Cud, Irs, Irs, Cud, Irs, Irs, Cud, Irs, Irs, Xos, Cud, Uu, Uu
+Uu, Uu, Uu, Cud, Xos, Irs, Irs, Cud, Irs, Cud, 2 Kud, Cud, Irs, Cud, Irs, Irs, Xos, Cud, Uu, Uu
+Uu, Uu, Uu, Cud, Xos, Irs, Cud, Irs, Irs, Cud, Cud, Cud, Irs, Irs, Cud, Irs, Xos, Cud, Uu, Uu
+Uu, Uu, Uu, Cud, Xos, Irs, Cud, Cud, Irs, Irs, Irs, Irs, Irs, Cud, Cud, Irs, Xos, Cud, Uu, Uu
+Uu, Uu, Uu, Cud, Irs, Irs, Irs, Cud, Irs, Cud, Cud, Cud, Irs, Cud, Irs, Irs, Irs, Cud, Uu, Uu
+Uu, Uu, Ur, Ur, Cud, Xos, Xos, Irs, Irs, Irs, Cud, Irs, Irs, Irs, Xos, Xos, Cud, Ur, Uu, Uu
+Uu, Uu, Ur, Uu, Uu, Cud, Cud, Xos, Xos, Irs, Irs, Irs, Xos, Xos, Cud, Cud, Uu, Ur, Uu, Uu
+Ur, Ur, Uu, Uu, Uu, Uu, Uu, Cud, Cud, Xos, Irs, Xos, Cud, Cud, Uu, Uu, Uu, Ur, Ur, Ur
